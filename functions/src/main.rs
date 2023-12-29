@@ -60,6 +60,24 @@ fn main() {
     for number in (1..4).rev() {
         println!("{number}!");
     }
+
+    let celsius = fahrenheit_to_celsius(100.0);
+    println!("Celsius {celsius}");
+
+    let fib = get_nth_fibonacci(5);
+    println!("Fib {fib}");
+}
+
+fn fahrenheit_to_celsius(fahrenheits: f32) -> f32 {
+    (fahrenheits - 32.0) * 5.0/9.0
+}
+
+fn get_nth_fibonacci(n: i32) -> i32 {
+    if n == 1 {
+        return 1;
+    }
+
+    n + get_nth_fibonacci(n - 1)
 }
 
 fn func(x: i32) {
