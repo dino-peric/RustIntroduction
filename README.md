@@ -1,1 +1,1 @@
-Continue at https://doc.rust-lang.org/book/ch09-00-error-handling.html
+Continue at https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
