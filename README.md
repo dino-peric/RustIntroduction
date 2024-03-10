@@ -1,1 +1,1 @@
-Continue at https://doc.rust-lang.org/book/ch10-00-generics.html
+Continue at https://doc.rust-lang.org/book/ch10-02-traits.html
