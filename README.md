@@ -1,4 +1,4 @@
-Continue at https://doc.rust-lang.org/book/ch10-02-traits.html#using-trait-bounds-to-conditionally-implement-methods
+Continue at https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html
 
 
 
