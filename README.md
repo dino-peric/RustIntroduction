@@ -1,7 +1,7 @@
-Continue at https://doc.rust-lang.org/book/ch12-00-an-io-project.html
+Continue at https://doc.rust-lang.org/book/ch12-04-testing-the-librarys-functionality.html
 
 
-
+https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/
 C# stuff for generics
 https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics
 https://learn.microsoft.com/en-us/dotnet/standard/generics/interfaces
