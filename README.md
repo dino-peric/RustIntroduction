@@ -1,4 +1,4 @@
-Continue at https://doc.rust-lang.org/book/ch13-00-functional-features.html
+Continue at https://doc.rust-lang.org/book/ch13-02-iterators.html
 
 
 https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/
